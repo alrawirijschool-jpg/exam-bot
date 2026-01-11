@@ -1,0 +1,6 @@
+streamlit
+pandas
+selenium
+webdriver-manager
+openpyxl
+tkcalendar==0.0.0  # Just to suppress errors if code refers to it, though we removed it
